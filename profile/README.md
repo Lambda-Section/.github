@@ -1,4 +1,4 @@
-# λ-section
+# λ-S
 
 Welcome to λ-section, an organization dedicated to pushing the boundaries of innovation through a multidisciplinary approach. By blending curiosity, rigor, and diverse expertise, we strive to uncover groundbreaking solutions and redefine what’s possible.
 
